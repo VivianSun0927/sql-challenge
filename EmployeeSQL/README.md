@@ -4,4 +4,5 @@ In this challenge we are simulating a scenario where we are a new data engineer 
 
 ## Tools Utilized
 pgAdmin4
+
 QuickDBD: https://app.quickdatabasediagrams.com/
